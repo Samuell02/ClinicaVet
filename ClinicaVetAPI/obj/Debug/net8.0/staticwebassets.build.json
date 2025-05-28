@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YrAqxJzyprYSQJV/ZUeExTVEsERQZ0MZ4TuFHMdmGCE=",
+  "Source": "ClinicaVetAPI",
+  "BasePath": "_content/ClinicaVetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
